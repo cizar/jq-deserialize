@@ -1,0 +1,19 @@
+{
+  "name": "jq-deserialize",
+  "version": "0.0.1",
+  "description": "jQuery deserialize",
+  "main": "jquery.deserialize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cizar/jq-deserialize.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cizar/jq-deserialize/issues"
+  },
+  "homepage": "https://github.com/cizar/jq-deserialize#readme"
+}
